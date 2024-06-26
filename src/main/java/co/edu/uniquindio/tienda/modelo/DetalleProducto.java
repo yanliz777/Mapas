@@ -1,4 +1,4 @@
-package co.edu.uniquindio.mapas.modelo;
+package co.edu.uniquindio.tienda.modelo;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

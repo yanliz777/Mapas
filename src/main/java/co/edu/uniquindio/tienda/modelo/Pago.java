@@ -1,4 +1,4 @@
-package co.edu.uniquindio.mapas.modelo;
+package co.edu.uniquindio.tienda.modelo;
 
 import java.time.LocalDateTime;
 import lombok.AllArgsConstructor;
